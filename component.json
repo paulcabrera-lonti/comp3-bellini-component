@@ -1,0 +1,20 @@
+{
+  "type": "component",
+  "name": "comp3",
+  "children": [
+    {
+      "name": "nested-card",
+      "nodeName": "nested-card",
+      "classList": [],
+      "children": [],
+      "type": "custom-component",
+      "ownerId": "6aebdf7114ea411ddb3bbc56",
+      "ownerType": "component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}

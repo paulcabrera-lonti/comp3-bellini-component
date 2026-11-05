@@ -1,0 +1,14 @@
+{
+  "type": "custom-component",
+  "name": "nested-card",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "localScripts": [
+    {
+      "path": "a.js"
+    }
+  ]
+}
